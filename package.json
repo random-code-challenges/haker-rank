@@ -1,0 +1,24 @@
+{
+  "name": "haker-rank",
+  "version": "1.0.0",
+  "description": "This Repo is for Hacker Ranks problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/random-code-challenges/haker-rank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/random-code-challenges/haker-rank/issues"
+  },
+  "homepage": "https://github.com/random-code-challenges/haker-rank#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "jest": "^26.2.2"
+  }
+}
